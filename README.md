@@ -13,6 +13,12 @@ This project presents a detailed analysis of the StackOverflow's 2017 Developer 
 My journey towards becoming a Data Scientist drove me to take on this project. Currently enrolled in the Data Scientist track at Udacity, I am grateful to be supported by my company throughout this endeavor. I am fascinated by data science, an incredibly compelling field that I believe will significantly shape the future of work and our lives. Thrilled to have embarked on this journey, I eagerly anticipate the challenges and opportunities for learning it will bring. This project stands as a testament to my passion and the first of many milestones in my data science journey.
 
 ---
+## Post on Medium.com
+Here is a post I made on medium.com to share my insights with a non-technical audience:
+
+https://medium.com/@luca.zavaglia/byte-by-byte-dissecting-the-developers-digital-dna-c59fb54e5bb8
+
+---
 
 ## Project Structure
 
